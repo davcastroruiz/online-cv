@@ -45,28 +45,12 @@ career-profile:
       Besides learn he likes to teach, he accomplished to give a few presential courses in the past such as:
         Automation Software, Python base fundamentals, Rhinoceros, Power Bi, Jenkins introduction, Docker introduction, Kubernetes.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: MSc in Computer Science (VR/AR)
+      university: Instituto Tecnologico Superior de Zapopan
+      time: 2018 - ?
+    - degree: BSc in Computer science engineering
+      university: Instituto Tecnologico Superior de Lagos de Moreno/Instituto Tecnologico de Cancun
+      time: 2013 - 2016
 experiences:
     - role: SOFTWARE ENGINEER/CLOUD OPS
       time: 2018 - 2021

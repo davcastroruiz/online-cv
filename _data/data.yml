@@ -71,21 +71,30 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: SOFTWARE ENGINEER/CLOUD OPS
+      time: 2018 - 2021
+      company: INTEL, GUADALAJARA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Creates, defines and develops system validation environment and
+        test suites. Uses and applies emulation and platform level tools
+        and techniques to ensure performance to spec. Responsible for
+        the development of methodologies, execution of validation plans,
+        and debug of failures. Requires broad understanding of multiple
+        system areas and requires interfaces with Architecture, Design,
+        and Pre-silicon Validation teams in improving post-silicon test
+        content and providing feedback for future on die debug features.
+        
+        I was in charge of the automation using mainly Jenkins, Ansible,
+        Python and Bash (and other programming technologies).
+        I do like data analysis and my main tool for that was Power Bi.
+        
+        My functions were create upstream images without dangling
+        dockerfiles, create workloads (python mainly) to test different
+        features in the market like CPU stress, Memory, Network, etc; and
+        the administration of 1400+ nodes (systems) with K8s, Jenkins and
+        bash.
+          - Kubernetes -> Docker/Containerd
+          - Rport Server for PowerBI administrator
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London

@@ -143,22 +143,25 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 95%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: MongoDB
+        level: 90%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Kubernetes/Docker/Containerd
+        level: 80%
+      
+      - name: RestFul APIs
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Sketch,Photoshop,AE,Blender
+        level: 40%
 
 footer: >
     Designed with Jekyll <i class="fas fa-gamepad"></i>

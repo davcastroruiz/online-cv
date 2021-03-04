@@ -94,28 +94,17 @@ experiences:
           - Report Server for PowerBI administrator
           - Content creation (workloads)
           - Cluster administrator (orchestrator)
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: SOFTWARE VALIDATION ENGINEER III
+      time:  DEC 2016 – DEC 2018 
+      company: SOFTTEK, GUADALAJARA (OUTSOURCING INTEL)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        C# .Net Developer and Python Web/Scripting Developer.
+        Developing validation apps using C#, WPF, python and web tools.
+          - Task automation with scripting (python).
+          - Django and Flask: framework for websites development.
+          - Knowledge about third part libraries and integrating in external applications such APIs
+          - Databases Knowledge. SQL/NOSQL
+          - Support in daily tasks for team members.
 projects:
     title: Projects
     intro: >

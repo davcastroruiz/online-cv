@@ -318,7 +318,7 @@ function render() {
 
 function resize() {
 	canvas.width = window.innerWidth * (window.devicePixelRatio || 1);
-	canvas.height = canvas.width * (canvas.clientHeight / canvas.clientWidth);
+	canvas.height = canvas.width * (canvas.clientHeight / canvas.clientWidth * 1.2);
 }
 
 function startLink(vertex, length) {

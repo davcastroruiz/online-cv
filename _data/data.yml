@@ -152,23 +152,26 @@ skills:
       - name: HTML5 & CSS
         level: 95%
                         
+      - name: PowerBi
+        level: 92%
+                        
       - name: MongoDB
-        level: 90%        
-
+        level: 90%
+        
       - name: SQLDB
-        level: 85%
+        level: 88%
 
       - name: Kubernetes
-        level: 80%
+        level: 86%
       
       - name: RestFul APIs
-        level: 80%
+        level: 86%
 
       - name: Docker
-        level: 80%
+        level: 85%
 
       - name: Javascript & jQuery
-        level: 75%
+        level: 80%
 
 
 footer: >

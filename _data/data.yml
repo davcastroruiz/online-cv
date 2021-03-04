@@ -41,12 +41,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      David Castro has demonstrated dedication in learning new technologies, he is always looking for the latest in the market to give support to new users.
+      Besides learn he likes to teach, he accomplished to give a few presential courses in the past such as:
+        Automation Software, Python base fundamentals, Rhinoceros, Power Bi, Jenkins introduction, Docker introduction, Kubernetes.
 education:
     - degree: MSc in Computer Science
       university: University of London

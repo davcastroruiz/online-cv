@@ -93,7 +93,7 @@ experiences:
         features in the market like CPU stress, Memory, Network, etc; and
         the administration of 1400+ nodes (systems) with K8s, Jenkins and
         bash.
-          - Kubernetes -> Docker/Containerd
+          - Kubernetes w Docker/Containerd
           - Rport Server for PowerBI administrator
     - role: Senior Software Engineer
       time: 2014 - 2015

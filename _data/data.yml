@@ -30,13 +30,16 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Music
+      - item: Design
         link:
 
       - item: Videogames
         link:
 
       - item: Cooking
+        link:
+        
+      - item: VR/AR
         link:
 
 career-profile:

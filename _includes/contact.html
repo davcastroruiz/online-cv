@@ -66,6 +66,12 @@
       <a href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.soundcloud %}
+    <li class="soundcloud"><i class="fas fa-soundcloud"></i>
+      <a href="https://soundcloud.com/{{ sidebar.soundcloud }}" target="_blank">{{ sidebar.soundcloud }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.goodreads %}
     <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>

@@ -67,10 +67,7 @@ experiences:
         test suites. Uses and applies emulation and platform level tools
         and techniques to ensure performance to spec. Responsible for
         the development of methodologies, execution of validation plans,
-        and debug of failures. Requires broad understanding of multiple
-        system areas and requires interfaces with Architecture, Design,
-        and Pre-silicon Validation teams in improving post-silicon test
-        content and providing feedback for future on die debug features.
+        and debug of failures. 
         
         I was in charge of the automation using mainly Jenkins, Ansible,
         Python and Bash (and other programming technologies).

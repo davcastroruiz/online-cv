@@ -94,7 +94,9 @@ experiences:
         the administration of 1400+ nodes (systems) with K8s, Jenkins and
         bash.
           - Kubernetes w Docker/Containerd
-          - Rport Server for PowerBI administrator
+          - Report Server for PowerBI administrator
+          - Content creation (workloads)
+          - Cluster administrator (orchestrator)
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London

@@ -146,23 +146,27 @@ skills:
       - name: Python & Django
         level: 95%
 
-      - name: Javascript & jQuery
-        level: 70%
-
-      - name: MongoDB
-        level: 90%
-
       - name: HTML5 & CSS
         level: 95%
+                        
+      - name: MongoDB
+        level: 90%        
 
-      - name: Kubernetes/Docker/Containerd
+      - name: SQLDB
+        level: 85%
+
+      - name: Kubernetes
         level: 80%
       
       - name: RestFul APIs
         level: 80%
 
-      - name: Sketch,Photoshop,AE,Blender
-        level: 40%
+      - name: Docker
+        level: 80%
+
+      - name: Javascript & jQuery
+        level: 75%
+
 
 footer: >
     Designed with Jekyll <i class="fas fa-gamepad"></i>

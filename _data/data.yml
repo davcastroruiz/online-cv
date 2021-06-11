@@ -54,11 +54,43 @@ career-profile:
 education:
     - degree: MSc in Computer Science (VR/AR)
       university: Instituto Tecnologico Superior de Zapopan
-      time: 2018 - ?
+      time: 2018 - ? (Someday)
     - degree: BSc in Computer science engineering
       university: Instituto Tecnologico Superior de Lagos de Moreno/Instituto Tecnologico de Cancun
       time: 2013 - 2016
 experiences:
+    - role: SOFTWARE DEVELOPER IN TEST III
+      time: 2021 - ACTUAL
+      company: F5 NETWORKS, GUADALAJARA - REMOTE
+      details: |
+        The Software Development Engineer in Test (SDET) is an integral part of the agile delivery team and will work with 
+        the Software Development Engineers (SDEs) to design, build, and support software deliveries. This team-oriented position
+        develop and execute test automation in co-operation with the rest of the team. 
+        Should occasions arise where product development capacity is needed you may also contribute directly to the product codebase, 
+        but your focus will be on test and test automation.
+       
+        Responsibilities include: 
+        - Test Automation
+        - Implement pipeline driven automated test suites
+        - Create new or expanded test automation capabilities including coverage, reporting metrics, performance enhancements, and other related areas 
+        - As the industry changes, be up to date on cutting edge technologies/tools
+        - Contribute user stories to team backlogsContribute to CI/CD process using DevOps Tools
+        - Involve in Grooming/Planning/Scrum meetings and be part of required scrum events
+        - Demonstrate understanding of concepts of automation and performance testing required
+        - Demonstrate excellent communication and inter-personal skills
+        - Demonstrate strong time management and organizational skills
+        - Ability to prioritize and multi-task in a fast paced, changing environment
+        - Demonstrate excellent analytical, critical thinking and problem-solving skills
+        - Demonstrate knowledge of continuous integration; build and deploy automation tools
+        - Working knowledge of Agile methodology.
+        - Knowledge/Working experience on AI
+        - Powered Automation/Performance engineering is added advantage.
+        
+        TOOLS:
+          - Typescript
+          - Azure Devops
+          - NUnit Projects
+          - API Master handler
     - role: SOFTWARE ENGINEER/CLOUD OPS
       time: 2018 - 2021
       company: INTEL, GUADALAJARA

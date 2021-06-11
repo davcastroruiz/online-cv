@@ -204,6 +204,12 @@ skills:
 
       - name: Javascript & jQuery
         level: 80%
+        
+      - name: Azure Devops (WIP)
+        level: 60%
+      
+      - name: TS & NODE (WIP)
+        level: 30%
 
 
 footer: >

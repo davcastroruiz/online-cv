@@ -54,7 +54,7 @@ career-profile:
 education:
     - degree: MSc in Computer Science (VR/AR)
       university: Instituto Tecnologico Superior de Zapopan
-      time: 2018 - ? (Someday)
+      time: 2018 - 2022 (ETA)
     - degree: BSc in Computer science engineering
       university: Instituto Tecnologico Superior de Lagos de Moreno/Instituto Tecnologico de Cancun
       time: 2013 - 2016
@@ -206,10 +206,10 @@ skills:
         level: 80%
         
       - name: Azure Devops (WIP)
-        level: 60%
+        level: 70%
       
       - name: TS & NODE (WIP)
-        level: 30%
+        level: 60%
 
 
 footer: >

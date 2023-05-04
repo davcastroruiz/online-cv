@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Castro Ruiz, David
-    tagline: Automation Software Engineer
+    tagline: Senior Software Development Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -27,7 +27,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Professional/Fluent
 
     interests:
       - item: Design
@@ -46,21 +46,49 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: A quick wikipedia me (last 5 years)
     summary: |
-      David Castro has demonstrated dedication in learning new technologies, he is always looking for the latest in the market to give support to new users.
-      Besides learn he likes to teach, he accomplished to give a few presential courses in the past such as:
-        Automation Software, Python base fundamentals, Rhinoceros, Power Bi, Jenkins introduction, Docker introduction, Kubernetes.
+      For the almost last 10 years I have been working in IT, from mobile applications for iOS, desktop and web applications using completely different technologies, programming languages and frameworks.
+      A few years ago I was in charge of more than 1200 nodes in 3 clusters, using k8s, docker and other tools for its orchestration by intel, trying to keep the roadmap updated and running the workloads
+      inside the nodes to test the harware components in the clusters, including some core components such as: CPU, GPU, VRAM, MEMORY, MOTHERBOARD AND KNOBS. 
+      In the last 2 years in F5 I started creating testing solutions and went on to give automation mentoring to eventually return to development, where I am currently in the telemetry and licensing team.
+      
+      I am always trying to adapt to projects, create solutions to makes life easier for everyone and create a work that we can love.
+      Resilience to changes is an important part of being able to preserve this, which is why I love learning new technologies and ways to solve problems every day.
+      
+      Softskills (I always trying to improve these):
+        - Communication, team work, listener, empathy, self-passionate learner, customer oriented, problem solver, big picture, good thinker 
+        - Excellent communication and inter-personal skills
+        - Strong time management and organizational skills
+        - Excellent analytical, critical thinking and problem-solving skills
 education:
     - degree: MSc in Computer Science (VR/AR)
       university: Instituto Tecnologico Superior de Zapopan
-      time: 2018 - 2022 (ETA)
+      time: 2018 - 2022
     - degree: BSc in Computer science engineering
       university: Instituto Tecnologico Superior de Lagos de Moreno/Instituto Tecnologico de Cancun
       time: 2013 - 2016
 experiences:
-    - role: SOFTWARE DEVELOPER IN TEST III
-      time: 2021 - ACTUAL
+    - role: SENIOR SOFTWARE DEVELOPER ENGINEER
+      time: 2023 - ACTUAL
+      company: F5 NETWORKS, GUADALAJARA - REMOTE
+      details: |
+        As part of my SDE role in the telemetry and licesing team, I am in charge of design, build and support the telemetry and mediation solution.
+        This solution helps the company to serve as the licensing and telemetry engine for a growing portfolio of F5 products.
+        Responsibilites include:
+        - Scripts to backfill
+        - Cleanup scripts
+        - API endpoints creation and maintenance
+        - Fix bugs in our code
+        - Implement automation anytime is possible
+        (using submodules, scripts, cronjobs, etc)
+        - Pipeline maintenance CI/CD
+        TOOLS:
+          - Typescript
+          - Azure Devops
+          - NUnit Projects
+    - role: SENIOR SOFTWARE DEVELOPER IN TEST
+      time: 2021 - 2023
       company: F5 NETWORKS, GUADALAJARA - REMOTE
       details: |
         The Software Development Engineer in Test (SDET) is an integral part of the agile delivery team and will work with 
@@ -73,24 +101,19 @@ experiences:
         - Test Automation
         - Implement pipeline driven automated test suites
         - Create new or expanded test automation capabilities including coverage, reporting metrics, performance enhancements, and other related areas 
-        - As the industry changes, be up to date on cutting edge technologies/tools
         - Contribute user stories to team backlogsContribute to CI/CD process using DevOps Tools
         - Involve in Grooming/Planning/Scrum meetings and be part of required scrum events
         - Demonstrate understanding of concepts of automation and performance testing required
-        - Demonstrate excellent communication and inter-personal skills
-        - Demonstrate strong time management and organizational skills
         - Ability to prioritize and multi-task in a fast paced, changing environment
-        - Demonstrate excellent analytical, critical thinking and problem-solving skills
         - Demonstrate knowledge of continuous integration; build and deploy automation tools
         - Working knowledge of Agile methodology.
-        - Knowledge/Working experience on AI
         - Powered Automation/Performance engineering is added advantage.
         
         TOOLS:
           - Typescript
           - Azure Devops
           - NUnit Projects
-          - API Master handler
+          - Mocha
     - role: SOFTWARE ENGINEER/CLOUD OPS
       time: 2018 - 2021
       company: INTEL, GUADALAJARA
@@ -114,17 +137,6 @@ experiences:
           - Report Server for PowerBI administrator
           - Content creation (workloads)
           - Cluster administrator (orchestrator)
-    - role: SOFTWARE VALIDATION ENGINEER III
-      time:  DEC 2016 – DEC 2018 
-      company: SOFTTEK, GUADALAJARA (OUTSOURCING INTEL)
-      details: |
-        C# .Net Developer and Python Web/Scripting Developer.
-        Developing validation apps using C#, WPF, python and web tools.
-          - Task automation with scripting (python).
-          - Django and Flask: framework for websites development.
-          - Knowledge about third part libraries and integrating in external applications such APIs
-          - Databases Knowledge. SQL/NOSQL
-          - Support in daily tasks for team members.
 projects:
     title: Projects
     intro: >
@@ -205,11 +217,11 @@ skills:
       - name: Javascript & jQuery
         level: 80%
         
-      - name: Azure Devops (WIP)
+      - name: Azure Devops 
         level: 70%
       
-      - name: TS & NODE (WIP)
-        level: 60%
+      - name: TS & NODE
+        level: 70%
 
 
 footer: >

@@ -49,11 +49,11 @@ career-profile:
     title: A quick wikipedia me (last 5 years)
     summary: |
       For the almost last 10 years I have been working in IT, from mobile applications for iOS, desktop and web applications using completely different technologies, programming languages and frameworks.
-      A few years ago I was in charge of more than 1200 nodes in 3 clusters, using k8s, docker and other tools for its orchestration by intel, trying to keep the roadmap updated and running the workloads
-      inside the nodes to test the harware components in the clusters, including some core components such as: CPU, GPU, VRAM, MEMORY, MOTHERBOARD AND KNOBS. 
+      A few years ago I was in charge of more than 1200 nodes in 3 clusters, using k8s, docker and other tools for its orchestration by Intel, trying to keep the roadmap updated and running the workloads
+      inside the nodes to test the hardware components in the clusters, including some core components such as: CPU, GPU, VRAM, MEMORY, MOTHERBOARD AND KNOBS. 
       In the last 2 years in F5 I started creating testing solutions and went on to give automation mentoring to eventually return to development, where I am currently in the telemetry and licensing team.
       
-      I am always trying to adapt to projects, create solutions to makes life easier for everyone and create a work that we can love.
+      I am always trying to adapt to projects, create solutions to make life easier for everyone and create a work that we can love.
       Resilience to changes is an important part of being able to preserve this, which is why I love learning new technologies and ways to solve problems every day.
       
       Softskills (I always trying to improve these):

@@ -17,10 +17,7 @@ sidebar:
     website: https://davcastroruiz.github.io/
     linkedin: david-castro-ruiz
     github: davcastroruiz
-    telegram: davcastroruiz
-    twitter: '@davcastroruiz'
     stack-overflow: 6326816/david-castro
-    soundcloud: davcastroruiz
 
     languages:
       - idiom: Spanish
@@ -46,14 +43,16 @@ sidebar:
         link:
 
 career-profile:
-    title: A quick wikipedia me (last 5 years)
+    title: Who am I?
     summary: |
-      For the almost last 10 years I have been working in IT, from mobile applications for iOS, desktop and web applications using completely different technologies, programming languages and frameworks.
-      A few years ago I was in charge of more than 1200 nodes in 3 clusters, using k8s, docker and other tools for its orchestration by Intel, trying to keep the roadmap updated and running the workloads
-      inside the nodes to test the hardware components in the clusters, including some core components such as: CPU, GPU, VRAM, MEMORY, MOTHERBOARD AND KNOBS. 
-      In the last 2 years in F5 I started creating testing solutions and went on to give automation mentoring to eventually return to development, where I am currently in the telemetry and licensing team.
+      For the almost last 10 years I have been working in IT, from desktop, web to mobile applications (iOS) using completely different stacks, programming languages and frameworks.
+      I had the opportunity a few years ago to be in charge of more than 1200 nodes in 3 clusters, using k8s, docker and other tools for its orchestration by Intel, trying to keep the roadmap updated and running the workloads
+      inside the nodes to test the hardware components in the clusters, including some core components such as: CPU, GPU, VRAM, MEMORY, MOTHERBOARD AND KNOBS.
       
-      I am always trying to adapt to projects, create solutions to make life easier for everyone and create a work that we can love.
+      In the last 2 years in F5, I've been creating some testing solutions and doing automation for Azure such as pipelines and test suites, as well of mentoring.
+      I eventually returned to development where I am currently in the telemetry and licensing team and the APIs we use as SAAS.
+      
+      Adapt to projects is a need, create solutions to make life easier for everyone and create a work that we can love (GPTW).
       Resilience to changes is an important part of being able to preserve this, which is why I love learning new technologies and ways to solve problems every day.
       
       Softskills (I always trying to improve these):

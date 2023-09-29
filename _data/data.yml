@@ -60,6 +60,7 @@ career-profile:
         - Excellent communication and inter-personal skills
         - Strong time management and organizational skills
         - Excellent analytical, critical thinking and problem-solving skills
+        - Leadership with focus on sharing knowledge along with mentoring.
 education:
     - degree: MSc in Computer Science (VR/AR)
       university: Instituto Tecnologico Superior de Zapopan
@@ -135,6 +136,7 @@ experiences:
         bash.
           - Kubernetes w Docker/Containerd
           - Report Server for PowerBI administrator
+          - Pair programming
           - Content creation (workloads)
           - Cluster administrator (orchestrator)
           - TDD strategy along with road map

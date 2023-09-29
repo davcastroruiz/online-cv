@@ -123,9 +123,10 @@ experiences:
         the development of methodologies, execution of validation plans,
         and debug of failures. 
         
-        I was in charge of the automation using mainly Jenkins, Ansible,
-        Python and Bash (and other programming technologies).
-        I do like data analysis and my main tool for that was Power Bi.
+        I was in charge of the automation using mainly Jenkins, Ansible, C#,
+        Python and Bash (and other programming technologies), writing first tests
+        before coding (TDD), for the data analysis my main tool was Power Bi 
+        but I have experience with Tableu too.
         
         My functions were create upstream images without dangling
         dockerfiles, create workloads (python mainly) to test different
@@ -136,6 +137,8 @@ experiences:
           - Report Server for PowerBI administrator
           - Content creation (workloads)
           - Cluster administrator (orchestrator)
+          - TDD strategy along with road map
+          - C#/python development and maintenance projects
 projects:
     title: Projects
     intro: >

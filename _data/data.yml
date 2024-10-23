@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: davcastroruiz@gmail.com
     phone: +52 998 242 7900
-    website: https://davcastroruiz.github.io/
+    website: https://davcastroruiz.github.io/horama/
     linkedin: david-castro-ruiz
     github: davcastroruiz
     stack-overflow: 6326816/david-castro
@@ -45,188 +45,89 @@ sidebar:
 career-profile:
     title: Who am I?
     summary: |
-      For the almost last 10 years I have been working in IT, from desktop, web to mobile applications (iOS) using completely different stacks, programming languages and frameworks.
-      I had the opportunity a few years ago to be in charge of more than 1200 nodes in 3 clusters, using k8s, docker and other tools for its orchestration by Intel, trying to keep the roadmap updated and running the workloads
-      inside the nodes to test the hardware components in the clusters, including some core components such as: CPU, GPU, VRAM, MEMORY, MOTHERBOARD AND KNOBS.
-      
-      In the last 2 years in F5, I've been creating some testing solutions and doing automation for Azure such as pipelines and test suites, as well of mentoring.
-      I eventually returned to development where I am currently in the telemetry and licensing team and the APIs we use as SAAS.
-      
-      Adapt to projects is a need, create solutions to make life easier for everyone and create a work that we can love (GPTW).
-      Resilience to changes is an important part of being able to preserve this, which is why I love learning new technologies and ways to solve problems every day.
-      
-      Softskills (I always trying to improve these):
-        - Communication, team work, listener, empathy, self-passionate learner, customer oriented, problem solver, big picture, good thinker 
-        - Excellent communication and inter-personal skills
-        - Strong time management and organizational skills
-        - Excellent analytical, critical thinking and problem-solving skills
-        - Leadership with focus on sharing knowledge along with mentoring.
+      Throughout my life, I have faced a unique challenge with the perception of time: my insatiable desire to learn. This yearning has led me to explore a variety of experiences, each valuable in its own right. My constant pursuit of knowledge guides me on this ephemeral journey, and I am grateful for every lesson I have had the fortune to learn.
+
+      For almost 10 years, I have been working in IT, from desktop, web, to mobile applications (iOS) using various stacks, programming languages, and frameworks. In the last 2 years at F5, I have been creating testing solutions and automation for Azure, along with mentoring. I adapt to projects, create solutions to make life easier for everyone, and love what I do.
+
+      Soft skills are essential, and I am always looking to improve in: communication, teamwork, empathy, self-driven learning, and customer orientation.
+
 education:
     - degree: MSc in Computer Science (VR/AR)
       university: Instituto Tecnologico Superior de Zapopan
       time: 2018 - 2022
-    - degree: BSc in Computer science engineering
-      university: Instituto Tecnologico Superior de Lagos de Moreno/Instituto Tecnologico de Cancun
+    - degree: BSc in Computer Science Engineering
+      university: Instituto Tecnologico Superior de Lagos de Moreno / Instituto Tecnologico de Cancun
       time: 2013 - 2016
 experiences:
-    - role: SENIOR SOFTWARE DEVELOPER ENGINEER
-      time: 2023 - ACTUAL
+    - role: Senior Software Development Engineer
+      time: 2023 - Present
       company: F5 NETWORKS, GUADALAJARA - REMOTE
       details: |
-        As part of my SDE role in the telemetry and licesing team, I am in charge of design, build and support the telemetry and mediation solution.
-        This solution helps the company to serve as the licensing and telemetry engine for a growing portfolio of F5 products.
-        Responsibilites include:
-        - Scripts to backfill
+        As part of my role in the telemetry and licensing team, I am responsible for designing, building, and supporting the telemetry and mediation solution. This solution helps the company serve as the licensing and telemetry engine for a growing portfolio of F5 products.
+        Responsibilities include:
+        - Backfill scripts
         - Cleanup scripts
         - API endpoints creation and maintenance
-        - Fix bugs in our code
-        - Implement automation anytime is possible
-        (using submodules, scripts, cronjobs, etc)
-        - Pipeline maintenance CI/CD
+        - Bug fixing in our code
+        - Implementing automation whenever possible
+        - CI/CD pipeline maintenance
         TOOLS:
           - Typescript
-          - Azure Devops
+          - Azure DevOps
           - NUnit Projects
-    - role: SENIOR SOFTWARE DEVELOPER IN TEST
+    - role: Software Developer In Test III
       time: 2021 - 2023
       company: F5 NETWORKS, GUADALAJARA - REMOTE
       details: |
-        The Software Development Engineer in Test (SDET) is an integral part of the agile delivery team and will work with 
-        the Software Development Engineers (SDEs) to design, build, and support software deliveries. This team-oriented position
-        develop and execute test automation in co-operation with the rest of the team. 
-        Should occasions arise where product development capacity is needed you may also contribute directly to the product codebase, 
-        but your focus will be on test and test automation.
-       
-        Responsibilities include: 
-        - Test Automation
-        - Implement pipeline driven automated test suites
-        - Create new or expanded test automation capabilities including coverage, reporting metrics, performance enhancements, and other related areas 
-        - Contribute user stories to team backlogsContribute to CI/CD process using DevOps Tools
-        - Involve in Grooming/Planning/Scrum meetings and be part of required scrum events
-        - Demonstrate understanding of concepts of automation and performance testing required
-        - Ability to prioritize and multi-task in a fast paced, changing environment
-        - Demonstrate knowledge of continuous integration; build and deploy automation tools
-        - Working knowledge of Agile methodology.
-        - Powered Automation/Performance engineering is added advantage.
-        
+        The Software Development Engineer in Test (SDET) is an integral part of the agile delivery team and works with the Software Development Engineers (SDEs) to design, build, and support software deliveries. This team-oriented position develops and executes test automation in cooperation with the rest of the team.
+        Responsibilities include:
+        - Test automation
+        - Implementing pipeline-driven automated test suites
+        - Contributing to user stories in the team backlog
+        - Involvement in grooming/planning/Scrum meetings
+        - Demonstrating knowledge of continuous integration and automation tools
         TOOLS:
           - Typescript
-          - Azure Devops
+          - Azure DevOps
           - NUnit Projects
           - Mocha
-    - role: SOFTWARE ENGINEER/CLOUD OPS
+    - role: Software Engineer/Cloud Ops
       time: 2018 - 2021
       company: INTEL, GUADALAJARA
       details: |
-        Creates, defines and develops system validation environment and
-        test suites. Uses and applies emulation and platform level tools
-        and techniques to ensure performance to spec. Responsible for
-        the development of methodologies, execution of validation plans,
-        and debug of failures. 
-        
-        I was in charge of the automation using mainly Jenkins, Ansible, C#,
-        Python and Bash (and other programming technologies), writing first tests
-        before coding (TDD), for the data analysis my main tool was Power Bi 
-        but I have experience with Tableu too.
-        
-        My functions were create upstream images without dangling
-        dockerfiles, create workloads (python mainly) to test different
-        features in the market like CPU stress, Memory, Network, etc; and
-        the administration of 1400+ nodes (systems) with K8s, Jenkins and
-        bash.
-          - Kubernetes w Docker/Containerd
-          - Report Server for PowerBI administrator
-          - Pair programming
-          - Content creation (workloads)
-          - Cluster administrator (orchestrator)
-          - TDD strategy along with road map
-          - C#/python development and maintenance projects
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        Creates, defines, and develops the system validation environment and test suites. Uses emulation and platform-level tools to ensure performance to specifications. Responsible for executing validation plans and debugging failures.
+        My functions included automation using mainly Jenkins, Ansible, C#, Python, and Bash, as well as data analysis with Power BI.
+        - Kubernetes with Docker/Containerd
+        - Power BI report server administrator
+        - Pair programming
+        - TDD strategy along with the roadmap
+        - C#/Python development and maintenance projects
 
 skills:
-    title: Skills &amp; Proficiency
-
+    title: Skills & Proficiency
     toolset:
       - name: Python & Django
         level: 95%
-
       - name: HTML5 & CSS
         level: 95%
-                        
-      - name: PowerBi
+      - name: Power BI
         level: 92%
-                        
       - name: MongoDB
         level: 90%
-        
       - name: SQLDB
         level: 88%
-
       - name: Kubernetes
         level: 86%
-      
       - name: RestFul APIs
         level: 86%
-
       - name: Docker
         level: 85%
-
       - name: Javascript & jQuery
         level: 80%
-        
-      - name: Azure Devops 
+      - name: Azure DevOps
         level: 70%
-      
-      - name: TS & NODE
+      - name: TS & Node
         level: 70%
-
 
 footer: >
     Designed with Jekyll <i class="fas fa-gamepad"></i>
